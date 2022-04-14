@@ -1,0 +1,40 @@
+html{   
+    font-family: 'Cagliostro', sans-serif;
+}
+body{
+    background-color: #060607;
+}
+h1{
+    margin-top: 10%;
+    color: white;
+    font-size: 5rem;
+}
+div{
+    text-align: center;
+}
+button{
+    height: 4em;
+    width: 4em;
+    border-radius: 100%;
+    font-size: 1rem;
+}
+button:hover{
+    cursor: pointer;
+}
+.start-btn{
+    background-color: #133018;
+    color: #4bec6a;
+    text-shadow: black;
+    border-color: #4bec6a;
+    margin-right: 1%;
+}
+.pause-btn{
+    background-color: #0e0e0f;
+    color: #707074;
+    margin-right: 1%;
+}
+.stop-btn{
+    background-color: #320e0a;
+    color: #8b2c27;
+    border-color: #8b2c27;
+}
